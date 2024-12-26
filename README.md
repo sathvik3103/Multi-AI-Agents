@@ -1,5 +1,5 @@
 # Multi-AI-Agents
-This Repository contains 3 multi AI agent applications projects made using Crew AI framework.
+This Repository contains 3 multi-AI agent applications projects made using Crew AI framework.
 
 1. **Automated Event Planning** based on user's inputs on factors like 'event_topic', 'event_description', 'event_city', 'tentative_date', 'expected_participants', 'budget', and 'venue_type'
 2. **Automated Article Research & Writing** on the user's choice of topic
